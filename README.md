@@ -1,1 +1,3 @@
 # hw1-coderefactor
+I worked with a tutor who helped me with this assignment. 
+We imported bootstrap and arranged the content of the page into rows and columns.  We also wrapped relevant parts of the page in semantic elements and added alt texts into relevent images. In order to fix a broken link we added the id to the div for search engine optimization.  In addition we added comments to the HTML.  In the css we adjusted paddings and margins of elements to let them fit better on smaller screens.  Using the @media query we adjusted the font size and image hight on smaller screens. We also noticed that there were a lot of duplicate css classes so we combined the ones that were similiar.  
